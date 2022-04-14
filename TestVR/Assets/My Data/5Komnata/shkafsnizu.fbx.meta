@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 0541237cda5d6a942ba3c1a41d9eedc2
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: 927658277730051460
+    second: durakblya|Vanity_00_low|Take 001|BaseLayer
+  - first:
+      74: -4834427964503693792
+    second: durakblya|Vanity_01_low|Take 001|BaseLayer
+  - first:
+      74: -5475823491570516432
+    second: durakblya|Vanity_01_low|Take 001|BaseLayer.001
+  - first:
+      74: -5267856643000580829
+    second: durakblya|Vanity_03_low|Take 001|BaseLayer
+  - first:
+      74: 3739880437185683165
+    second: durakblya|Vanity_03_low|Take 001|BaseLayer.002
+  - first:
+      74: -7959464562801677512
+    second: durakblya|Vanity_04_low|Take 001|BaseLayer
+  - first:
+      74: -1912105056136851288
+    second: durakblya|Vanity_04_low|Take 001|BaseLayer.001
+  - first:
+      74: 3173059458148552754
+    second: durakblya|Vanity_05_low|Take 001|BaseLayer
+  - first:
+      74: 267009310382083462
+    second: durakblya|Vanity_05_low|Take 001|BaseLayer.001
+  - first:
+      74: -8501753101179664259
+    second: durakblya|Vanity_06_low|Take 001|BaseLayer
+  - first:
+      74: 97773428125214288
+    second: durakblya|Vanity_06_low|Take 001|BaseLayer.001
+  - first:
+      74: -894951628597093506
+    second: durakblya|Vanity_07_low|Take 001|BaseLayer
+  - first:
+      74: 331836968493376161
+    second: durakblya|Vanity_07_low|Take 001|BaseLayer.001
+  - first:
+      74: 1661952736218224940
+    second: durakblya|Vanity_10_low|Take 001|BaseLayer
+  - first:
+      74: -909627491010922203
+    second: durakblya|Vanity_10_low|Take 001|BaseLayer.001
+  - first:
+      74: 861847894386303726
+    second: durakblya|Vanity_11_low|Take 001|BaseLayer
+  - first:
+      74: 5520018911301605694
+    second: durakblya|Vanity_12_low|Take 001|BaseLayer
+  - first:
+      74: 7305074773463855307
+    second: durakblya|Vanity_12_low|Take 001|BaseLayer.001
+  - first:
+      74: 6095972887660884675
+    second: durakblya|Vanity_13_low|Take 001|BaseLayer
+  - first:
+      74: 6985109468701588117
+    second: durakblya|Vanity_13_low|Take 001|BaseLayer.001
+  - first:
+      74: -8013069881299995571
+    second: durakblya|Vanity_14_low|Take 001|BaseLayer
+  - first:
+      74: -4489192985137841570
+    second: durakblya|Vanity_14_low|Take 001|BaseLayer.001
+  - first:
+      74: 5314738867948734447
+    second: durakblya|Vanity_15_low|Take 001|BaseLayer
+  - first:
+      74: 1739411818133804443
+    second: durakblya|Vanity_15_low|Take 001|BaseLayer.001
+  - first:
+      74: 6886091891218939042
+    second: durakblya|Vanity_16_low|Take 001|BaseLayer
+  - first:
+      74: -4851323120257599485
+    second: durakblya|Vanity_16_low|Take 001|BaseLayer.001
+  - first:
+      74: 6938413803819813652
+    second: durakblya|Vanity_17_low|Take 001|BaseLayer
+  - first:
+      74: -4394588276001468152
+    second: durakblya|Vanity_17_low|Take 001|BaseLayer.001
+  - first:
+      74: -7584416025774804378
+    second: durakblya|Vanity_18_low|Take 001|BaseLayer
+  - first:
+      74: -4883948232499617155
+    second: durakblya|Vanity_18_low|Take 001|BaseLayer.001
+  - first:
+      74: 1323726941897550647
+    second: durakblya|Vanity_19_low|Take 001|BaseLayer
+  - first:
+      74: -966472747339402186
+    second: durakblya|Vanity_19_low|Take 001|BaseLayer.001
+  - first:
+      74: -2571570357250243632
+    second: durakblya|Vanity_20_low|Take 001|BaseLayer
+  - first:
+      74: 8676726667224250287
+    second: durakblya|Vanity_20_low|Take 001|BaseLayer.001
+  - first:
+      74: 3759494741781840551
+    second: durakblya|Vanity_21_low|Take 001|BaseLayer
+  - first:
+      74: 5942086890294572201
+    second: durakblya|Vanity_21_low|Take 001|BaseLayer.001
+  - first:
+      74: 4452349251603572456
+    second: durakblya|Vanity_22_low|Take 001|BaseLayer
+  - first:
+      74: -3834659011552361246
+    second: durakblya|Vanity_23_low|Take 001|BaseLayer
+  - first:
+      74: 7978364787430847107
+    second: durakblya|Vanity_24_low|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

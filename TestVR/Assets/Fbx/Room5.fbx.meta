@@ -1,0 +1,564 @@
+fileFormatVersion: 2
+guid: 0d46c2bab273f814ea140408b361d45b
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: 3948246731827305671
+    second: ruchka_niz|Vanity_00_low|Take 001|BaseLayer
+  - first:
+      74: -3166831077474235054
+    second: ruchka_niz|Vanity_01_low|Take 001|BaseLayer
+  - first:
+      74: 2300552404817735012
+    second: ruchka_niz|Vanity_01_low|Take 001|BaseLayer.001
+  - first:
+      74: -3989005235178211184
+    second: ruchka_niz|Vanity_03_low|Take 001|BaseLayer
+  - first:
+      74: 7472146465207446418
+    second: ruchka_niz|Vanity_03_low|Take 001|BaseLayer.002
+  - first:
+      74: -5200669400023796713
+    second: ruchka_niz|Vanity_04_low|Take 001|BaseLayer
+  - first:
+      74: -7234793075191889277
+    second: ruchka_niz|Vanity_04_low|Take 001|BaseLayer.001
+  - first:
+      74: 8823417899536684755
+    second: ruchka_niz|Vanity_05_low|Take 001|BaseLayer
+  - first:
+      74: 660870043539336776
+    second: ruchka_niz|Vanity_05_low|Take 001|BaseLayer.001
+  - first:
+      74: 6061151889159933960
+    second: ruchka_niz|Vanity_06_low|Take 001|BaseLayer
+  - first:
+      74: -700967629362081487
+    second: ruchka_niz|Vanity_06_low|Take 001|BaseLayer.001
+  - first:
+      74: -2820141744101816647
+    second: ruchka_niz|Vanity_07_low|Take 001|BaseLayer
+  - first:
+      74: 738724116684769795
+    second: ruchka_niz|Vanity_07_low|Take 001|BaseLayer.001
+  - first:
+      74: 6295487230019840868
+    second: ruchka_niz|Vanity_10_low|Take 001|BaseLayer
+  - first:
+      74: 6302145415880299907
+    second: ruchka_niz|Vanity_10_low|Take 001|BaseLayer.001
+  - first:
+      74: 5113082917035741666
+    second: ruchka_niz|Vanity_11_low|Take 001|BaseLayer
+  - first:
+      74: -3655029573635045551
+    second: ruchka_niz|Vanity_12_low|Take 001|BaseLayer
+  - first:
+      74: 1436051201906692355
+    second: ruchka_niz|Vanity_12_low|Take 001|BaseLayer.001
+  - first:
+      74: -6189232301082977675
+    second: ruchka_niz|Vanity_13_low|Take 001|BaseLayer
+  - first:
+      74: -209696334850021921
+    second: ruchka_niz|Vanity_13_low|Take 001|BaseLayer.001
+  - first:
+      74: -7268726362840735880
+    second: ruchka_niz|Vanity_14_low|Take 001|BaseLayer
+  - first:
+      74: 1184777931007394889
+    second: ruchka_niz|Vanity_14_low|Take 001|BaseLayer.001
+  - first:
+      74: -3033979391098820291
+    second: ruchka_niz|Vanity_15_low|Take 001|BaseLayer
+  - first:
+      74: 3712455879243651161
+    second: ruchka_niz|Vanity_15_low|Take 001|BaseLayer.001
+  - first:
+      74: -1492473163737351743
+    second: ruchka_niz|Vanity_16_low|Take 001|BaseLayer
+  - first:
+      74: -7331910397793302917
+    second: ruchka_niz|Vanity_16_low|Take 001|BaseLayer.001
+  - first:
+      74: 9141418764556947508
+    second: ruchka_niz|Vanity_17_low|Take 001|BaseLayer
+  - first:
+      74: -2189170068456638988
+    second: ruchka_niz|Vanity_17_low|Take 001|BaseLayer.001
+  - first:
+      74: 5368975331085451475
+    second: ruchka_niz|Vanity_18_low|Take 001|BaseLayer
+  - first:
+      74: 7098113572007757010
+    second: ruchka_niz|Vanity_18_low|Take 001|BaseLayer.001
+  - first:
+      74: -5183487388610464860
+    second: ruchka_niz|Vanity_19_low|Take 001|BaseLayer
+  - first:
+      74: 555171951947893317
+    second: ruchka_niz|Vanity_19_low|Take 001|BaseLayer.001
+  - first:
+      74: -8567084112955571882
+    second: ruchka_niz|Vanity_20_low|Take 001|BaseLayer
+  - first:
+      74: -1808806671602627404
+    second: ruchka_niz|Vanity_20_low|Take 001|BaseLayer.001
+  - first:
+      74: -9076093969161394401
+    second: ruchka_niz|Vanity_21_low|Take 001|BaseLayer
+  - first:
+      74: 3630487253530139066
+    second: ruchka_niz|Vanity_21_low|Take 001|BaseLayer.001
+  - first:
+      74: -6884431297281547303
+    second: ruchka_niz|Vanity_22_low|Take 001|BaseLayer
+  - first:
+      74: -7288129763408223620
+    second: ruchka_niz|Vanity_23_low|Take 001|BaseLayer
+  - first:
+      74: 5319767621884179411
+    second: ruchka_niz|Vanity_24_low|Take 001|BaseLayer
+  - first:
+      74: 4382685111737431593
+    second: ruchka_right|Vanity_00_low|Take 001|BaseLayer
+  - first:
+      74: -5235242939813566509
+    second: ruchka_right|Vanity_01_low|Take 001|BaseLayer
+  - first:
+      74: -5490788350261495887
+    second: ruchka_right|Vanity_01_low|Take 001|BaseLayer.001
+  - first:
+      74: 3694081939866369295
+    second: ruchka_right|Vanity_03_low|Take 001|BaseLayer
+  - first:
+      74: -4720231127469033166
+    second: ruchka_right|Vanity_03_low|Take 001|BaseLayer.002
+  - first:
+      74: 9206480931712890444
+    second: ruchka_right|Vanity_04_low|Take 001|BaseLayer
+  - first:
+      74: -459740984702997276
+    second: ruchka_right|Vanity_04_low|Take 001|BaseLayer.001
+  - first:
+      74: 6581977889015669055
+    second: ruchka_right|Vanity_05_low|Take 001|BaseLayer
+  - first:
+      74: 3123906008657463338
+    second: ruchka_right|Vanity_05_low|Take 001|BaseLayer.001
+  - first:
+      74: 6475528721696484338
+    second: ruchka_right|Vanity_06_low|Take 001|BaseLayer
+  - first:
+      74: -5562738779063524947
+    second: ruchka_right|Vanity_06_low|Take 001|BaseLayer.001
+  - first:
+      74: 2836340863660700697
+    second: ruchka_right|Vanity_07_low|Take 001|BaseLayer
+  - first:
+      74: -2366351626117765841
+    second: ruchka_right|Vanity_07_low|Take 001|BaseLayer.001
+  - first:
+      74: 4444286094302003947
+    second: ruchka_right|Vanity_10_low|Take 001|BaseLayer
+  - first:
+      74: -8099393752907575893
+    second: ruchka_right|Vanity_10_low|Take 001|BaseLayer.001
+  - first:
+      74: -7272142159420155404
+    second: ruchka_right|Vanity_11_low|Take 001|BaseLayer
+  - first:
+      74: 95501168224196683
+    second: ruchka_right|Vanity_12_low|Take 001|BaseLayer
+  - first:
+      74: 5009349349137729999
+    second: ruchka_right|Vanity_12_low|Take 001|BaseLayer.001
+  - first:
+      74: -4531422896747868389
+    second: ruchka_right|Vanity_13_low|Take 001|BaseLayer
+  - first:
+      74: 3904745571693261225
+    second: ruchka_right|Vanity_13_low|Take 001|BaseLayer.001
+  - first:
+      74: -7133108767267377171
+    second: ruchka_right|Vanity_14_low|Take 001|BaseLayer
+  - first:
+      74: -7785250674052479468
+    second: ruchka_right|Vanity_14_low|Take 001|BaseLayer.001
+  - first:
+      74: -7110971630521002519
+    second: ruchka_right|Vanity_15_low|Take 001|BaseLayer
+  - first:
+      74: 6903521182898506591
+    second: ruchka_right|Vanity_15_low|Take 001|BaseLayer.001
+  - first:
+      74: -7357970230674608455
+    second: ruchka_right|Vanity_16_low|Take 001|BaseLayer
+  - first:
+      74: 8461311608195309045
+    second: ruchka_right|Vanity_16_low|Take 001|BaseLayer.001
+  - first:
+      74: -4768062486159049811
+    second: ruchka_right|Vanity_17_low|Take 001|BaseLayer
+  - first:
+      74: -3903242866586167115
+    second: ruchka_right|Vanity_17_low|Take 001|BaseLayer.001
+  - first:
+      74: -7430517966938955673
+    second: ruchka_right|Vanity_18_low|Take 001|BaseLayer
+  - first:
+      74: 7472379560080592548
+    second: ruchka_right|Vanity_18_low|Take 001|BaseLayer.001
+  - first:
+      74: 9051974746539377456
+    second: ruchka_right|Vanity_19_low|Take 001|BaseLayer
+  - first:
+      74: -414240312543395560
+    second: ruchka_right|Vanity_19_low|Take 001|BaseLayer.001
+  - first:
+      74: -6834749263893492171
+    second: ruchka_right|Vanity_20_low|Take 001|BaseLayer
+  - first:
+      74: -5386631054753111756
+    second: ruchka_right|Vanity_20_low|Take 001|BaseLayer.001
+  - first:
+      74: 8794047627384656668
+    second: ruchka_right|Vanity_21_low|Take 001|BaseLayer
+  - first:
+      74: 2863130219076106537
+    second: ruchka_right|Vanity_21_low|Take 001|BaseLayer.001
+  - first:
+      74: 6869318621360530039
+    second: ruchka_right|Vanity_22_low|Take 001|BaseLayer
+  - first:
+      74: 5919009859596034726
+    second: ruchka_right|Vanity_23_low|Take 001|BaseLayer
+  - first:
+      74: -2972606939191468823
+    second: ruchka_right|Vanity_24_low|Take 001|BaseLayer
+  - first:
+      74: 927658277730051460
+    second: durakblya|Vanity_00_low|Take 001|BaseLayer
+  - first:
+      74: -4834427964503693792
+    second: durakblya|Vanity_01_low|Take 001|BaseLayer
+  - first:
+      74: -5475823491570516432
+    second: durakblya|Vanity_01_low|Take 001|BaseLayer.001
+  - first:
+      74: -5267856643000580829
+    second: durakblya|Vanity_03_low|Take 001|BaseLayer
+  - first:
+      74: 3739880437185683165
+    second: durakblya|Vanity_03_low|Take 001|BaseLayer.002
+  - first:
+      74: -7959464562801677512
+    second: durakblya|Vanity_04_low|Take 001|BaseLayer
+  - first:
+      74: -1912105056136851288
+    second: durakblya|Vanity_04_low|Take 001|BaseLayer.001
+  - first:
+      74: 3173059458148552754
+    second: durakblya|Vanity_05_low|Take 001|BaseLayer
+  - first:
+      74: 267009310382083462
+    second: durakblya|Vanity_05_low|Take 001|BaseLayer.001
+  - first:
+      74: -8501753101179664259
+    second: durakblya|Vanity_06_low|Take 001|BaseLayer
+  - first:
+      74: 97773428125214288
+    second: durakblya|Vanity_06_low|Take 001|BaseLayer.001
+  - first:
+      74: -894951628597093506
+    second: durakblya|Vanity_07_low|Take 001|BaseLayer
+  - first:
+      74: 331836968493376161
+    second: durakblya|Vanity_07_low|Take 001|BaseLayer.001
+  - first:
+      74: 1661952736218224940
+    second: durakblya|Vanity_10_low|Take 001|BaseLayer
+  - first:
+      74: -909627491010922203
+    second: durakblya|Vanity_10_low|Take 001|BaseLayer.001
+  - first:
+      74: 861847894386303726
+    second: durakblya|Vanity_11_low|Take 001|BaseLayer
+  - first:
+      74: 5520018911301605694
+    second: durakblya|Vanity_12_low|Take 001|BaseLayer
+  - first:
+      74: 7305074773463855307
+    second: durakblya|Vanity_12_low|Take 001|BaseLayer.001
+  - first:
+      74: 6095972887660884675
+    second: durakblya|Vanity_13_low|Take 001|BaseLayer
+  - first:
+      74: 6985109468701588117
+    second: durakblya|Vanity_13_low|Take 001|BaseLayer.001
+  - first:
+      74: -8013069881299995571
+    second: durakblya|Vanity_14_low|Take 001|BaseLayer
+  - first:
+      74: -4489192985137841570
+    second: durakblya|Vanity_14_low|Take 001|BaseLayer.001
+  - first:
+      74: 5314738867948734447
+    second: durakblya|Vanity_15_low|Take 001|BaseLayer
+  - first:
+      74: 1739411818133804443
+    second: durakblya|Vanity_15_low|Take 001|BaseLayer.001
+  - first:
+      74: 6886091891218939042
+    second: durakblya|Vanity_16_low|Take 001|BaseLayer
+  - first:
+      74: -4851323120257599485
+    second: durakblya|Vanity_16_low|Take 001|BaseLayer.001
+  - first:
+      74: 6938413803819813652
+    second: durakblya|Vanity_17_low|Take 001|BaseLayer
+  - first:
+      74: -4394588276001468152
+    second: durakblya|Vanity_17_low|Take 001|BaseLayer.001
+  - first:
+      74: -7584416025774804378
+    second: durakblya|Vanity_18_low|Take 001|BaseLayer
+  - first:
+      74: -4883948232499617155
+    second: durakblya|Vanity_18_low|Take 001|BaseLayer.001
+  - first:
+      74: 1323726941897550647
+    second: durakblya|Vanity_19_low|Take 001|BaseLayer
+  - first:
+      74: -966472747339402186
+    second: durakblya|Vanity_19_low|Take 001|BaseLayer.001
+  - first:
+      74: -2571570357250243632
+    second: durakblya|Vanity_20_low|Take 001|BaseLayer
+  - first:
+      74: 8676726667224250287
+    second: durakblya|Vanity_20_low|Take 001|BaseLayer.001
+  - first:
+      74: 3759494741781840551
+    second: durakblya|Vanity_21_low|Take 001|BaseLayer
+  - first:
+      74: 5942086890294572201
+    second: durakblya|Vanity_21_low|Take 001|BaseLayer.001
+  - first:
+      74: 4452349251603572456
+    second: durakblya|Vanity_22_low|Take 001|BaseLayer
+  - first:
+      74: -3834659011552361246
+    second: durakblya|Vanity_23_low|Take 001|BaseLayer
+  - first:
+      74: 7978364787430847107
+    second: durakblya|Vanity_24_low|Take 001|BaseLayer
+  - first:
+      74: 4900506330403921188
+    second: left__door|Vanity_00_low|Take 001|BaseLayer
+  - first:
+      74: 3659477806031240667
+    second: left__door|Vanity_01_low|Take 001|BaseLayer
+  - first:
+      74: -5849942618897488880
+    second: left__door|Vanity_01_low|Take 001|BaseLayer.001
+  - first:
+      74: -4935849002073071083
+    second: left__door|Vanity_03_low|Take 001|BaseLayer
+  - first:
+      74: -1380308005837411769
+    second: left__door|Vanity_03_low|Take 001|BaseLayer.002
+  - first:
+      74: -769778343152019158
+    second: left__door|Vanity_04_low|Take 001|BaseLayer
+  - first:
+      74: -7446273673198453558
+    second: left__door|Vanity_04_low|Take 001|BaseLayer.001
+  - first:
+      74: 7318056458843790621
+    second: left__door|Vanity_05_low|Take 001|BaseLayer
+  - first:
+      74: 5936872672576022150
+    second: left__door|Vanity_05_low|Take 001|BaseLayer.001
+  - first:
+      74: 3640579352838323091
+    second: left__door|Vanity_06_low|Take 001|BaseLayer
+  - first:
+      74: 132798956577211390
+    second: left__door|Vanity_06_low|Take 001|BaseLayer.001
+  - first:
+      74: -1221468887369956609
+    second: left__door|Vanity_07_low|Take 001|BaseLayer
+  - first:
+      74: -4790517361103135702
+    second: left__door|Vanity_07_low|Take 001|BaseLayer.001
+  - first:
+      74: -6190783820458514842
+    second: left__door|Vanity_10_low|Take 001|BaseLayer
+  - first:
+      74: -5522153675951072049
+    second: left__door|Vanity_10_low|Take 001|BaseLayer.001
+  - first:
+      74: -6804512278416943534
+    second: left__door|Vanity_11_low|Take 001|BaseLayer
+  - first:
+      74: 7810901395621637573
+    second: left__door|Vanity_12_low|Take 001|BaseLayer
+  - first:
+      74: 5759460725994374369
+    second: left__door|Vanity_12_low|Take 001|BaseLayer.001
+  - first:
+      74: -1820282866780363757
+    second: left__door|Vanity_13_low|Take 001|BaseLayer
+  - first:
+      74: 8976530660704282926
+    second: left__door|Vanity_13_low|Take 001|BaseLayer.001
+  - first:
+      74: -5733413767223059374
+    second: left__door|Vanity_14_low|Take 001|BaseLayer
+  - first:
+      74: -9217468324350008402
+    second: left__door|Vanity_14_low|Take 001|BaseLayer.001
+  - first:
+      74: 3158533399521567800
+    second: left__door|Vanity_15_low|Take 001|BaseLayer
+  - first:
+      74: 9169356427919653674
+    second: left__door|Vanity_15_low|Take 001|BaseLayer.001
+  - first:
+      74: 9020150992159090171
+    second: left__door|Vanity_16_low|Take 001|BaseLayer
+  - first:
+      74: -408041363646619821
+    second: left__door|Vanity_16_low|Take 001|BaseLayer.001
+  - first:
+      74: -506051660431437393
+    second: left__door|Vanity_17_low|Take 001|BaseLayer
+  - first:
+      74: -935083695610395791
+    second: left__door|Vanity_17_low|Take 001|BaseLayer.001
+  - first:
+      74: -8762340061855538834
+    second: left__door|Vanity_18_low|Take 001|BaseLayer
+  - first:
+      74: -3459422485325128090
+    second: left__door|Vanity_18_low|Take 001|BaseLayer.001
+  - first:
+      74: 5127519480330449104
+    second: left__door|Vanity_19_low|Take 001|BaseLayer
+  - first:
+      74: 4245070972389247600
+    second: left__door|Vanity_19_low|Take 001|BaseLayer.001
+  - first:
+      74: -5418148770652174807
+    second: left__door|Vanity_20_low|Take 001|BaseLayer
+  - first:
+      74: 7937809208891826834
+    second: left__door|Vanity_20_low|Take 001|BaseLayer.001
+  - first:
+      74: 5060290276185982371
+    second: left__door|Vanity_21_low|Take 001|BaseLayer
+  - first:
+      74: -4620943887196414334
+    second: left__door|Vanity_21_low|Take 001|BaseLayer.001
+  - first:
+      74: 2397151504276505031
+    second: left__door|Vanity_22_low|Take 001|BaseLayer
+  - first:
+      74: -4613531894212742492
+    second: left__door|Vanity_23_low|Take 001|BaseLayer
+  - first:
+      74: 1697850970487894007
+    second: left__door|Vanity_24_low|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

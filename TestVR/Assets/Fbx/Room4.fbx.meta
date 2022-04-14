@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 5e5a8a20b8e03da4dbd622ed6f0f8fe8
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: 4845414543500285523
+    second: durak|Cylinder.001|Cylinder|CylinderAction|Cylinder|CylinderAction
+  - first:
+      74: -9152470247978738468
+    second: durak|default|Base Stack|DefaultLayer
+  - first:
+      74: 5479064940658023342
+    second: durak|Dirt.001|Take 001|BaseLayer
+  - first:
+      74: -704071479368350014
+    second: durak|Dirt02.001|Take 001|BaseLayer
+  - first:
+      74: 1844187364974125256
+    second: durak|Dirt02|Take 001|BaseLayer
+  - first:
+      74: -5801492862644817110
+    second: durak|Dirt|Take 001|BaseLayer
+  - first:
+      74: 7998225891163865394
+    second: durak|Leaf.000|Take 001|BaseLayer
+  - first:
+      74: 900601821759263093
+    second: durak|Leaf.001|Take 001|BaseLayer
+  - first:
+      74: 4673615261260002842
+    second: durak|Leaf.002|Take 001|BaseLayer
+  - first:
+      74: -8942072329197456590
+    second: durak|Leaf.003|Take 001|BaseLayer
+  - first:
+      74: 3865064318723824496
+    second: durak|Leaf.004|Take 001|BaseLayer
+  - first:
+      74: 1625492832522404601
+    second: durak|Leaf.005|Take 001|BaseLayer
+  - first:
+      74: -953759330800106283
+    second: durak|Leaf.008|Take 001|BaseLayer
+  - first:
+      74: 3115198104268051013
+    second: durak|Leaf.009|Take 001|BaseLayer
+  - first:
+      74: -1595725401404225586
+    second: durak|Leaf.010|Take 001|BaseLayer
+  - first:
+      74: 6265727045141149850
+    second: durak|Leaf.011|Take 001|BaseLayer
+  - first:
+      74: 4977271588370443230
+    second: durak|Leaf006.000|Take 001|BaseLayer
+  - first:
+      74: 6376830680250086488
+    second: durak|Leaf006.001|Take 001|BaseLayer
+  - first:
+      74: 969621849981358177
+    second: durak|Leaf007.001|Take 001|BaseLayer
+  - first:
+      74: -8844052309063395866
+    second: durak|Leaf007|Take 001|BaseLayer
+  - first:
+      74: -1590328105953981288
+    second: durak|leaf02.000|Take 001|BaseLayer
+  - first:
+      74: -4486926890524912637
+    second: durak|leaf02.001|Take 001|BaseLayer
+  - first:
+      74: 5603473153438207969
+    second: durak|leaf03.000|Take 001|BaseLayer
+  - first:
+      74: 2102924949051300886
+    second: durak|leaf03.001|Take 001|BaseLayer
+  - first:
+      74: 3010176240116974191
+    second: durak|leaf05.000|Take 001|BaseLayer
+  - first:
+      74: -2705291671303272911
+    second: durak|leaf05.001|Take 001|BaseLayer
+  - first:
+      74: -4302134816450323223
+    second: durak|lef04.000|Take 001|BaseLayer
+  - first:
+      74: -4569793795762069604
+    second: durak|lef04.001|Take 001|BaseLayer
+  - first:
+      74: -5299295259691651928
+    second: durak|Moh.001|Take 001|BaseLayer
+  - first:
+      74: 8060167409762947855
+    second: durak|Moh|Take 001|BaseLayer
+  - first:
+      74: -322551288980085754
+    second: durak|Pot.001|Take 001|BaseLayer
+  - first:
+      74: -6287971751404319191
+    second: durak|Pot|Take 001|BaseLayer
+  - first:
+      74: -4127592918607110245
+    second: durak|Rusty_Nail_RenderCam|Take 001|BaseLayer
+  - first:
+      74: 7543545900750805962
+    second: durak|stem.001|Take 001|BaseLayer
+  - first:
+      74: -7014476794758984287
+    second: durak|stem|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
